@@ -1,0 +1,8 @@
+{
+    "python.defaultInterpreterPath": "e:/Django/react&django/backend/envt/Scripts/python.exe",
+    "python.analysis.extraPaths": [
+        "backend"
+    ]
+}{
+    "python-envs.defaultEnvManager": "ms-python.python:system"
+}
