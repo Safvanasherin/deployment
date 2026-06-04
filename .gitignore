@@ -1,0 +1,11 @@
+backend/envt/
+backend/venv/
+
+.env
+db.sqlite3
+
+__pycache__/
+*.pyc
+
+contactapp/node_modules/
+contactapp/build/
